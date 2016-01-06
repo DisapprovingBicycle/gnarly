@@ -18,7 +18,7 @@
   <object x="35" y="453" width="570" height="27"/>
  </objectgroup>
  <objectgroup name="sprite" width="20" height="15">
-  <object name="player1" x="450" y="162" width="29" height="29">
+  <object name="player1" x="450" y="162" width="32" height="32">
    <properties>
     <property name="image" value="player1"/>
     <property name="spriteheight" value="32"/>
