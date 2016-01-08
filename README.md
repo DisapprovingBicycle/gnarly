@@ -14,7 +14,7 @@ If you have Node.js installed but do not have Grunt then you can install it with
 
 # Set up
 
-Clone the repoÑ
+Clone the repo:
 
 ```git clone git@github.com:DisapprovingBicycle/gnarly.git```
 
