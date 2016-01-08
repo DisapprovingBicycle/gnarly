@@ -4,19 +4,21 @@ The intent of this repository is to create a simple game which uses the MelonJS 
 
 This project uses Node.js, Grunt and MelonJS
 
-If you do not have Node.js installed please visit:
+If you do not have Node.js installed you can get it here:
 
 https://nodejs.org/
 
-If you have Node.js installed but do not have Grunt then you can install it via node package manager (npm):
+If you have Node.js installed but do not have Grunt then you can install it with the package manager that comes with Node.js:
 
 ```npm install -g grunt-cli```
 
 # Set up
 
+Clone the repoÑ
+
 ```git clone git@github.com:DisapprovingBicycle/gnarly.git```
 
-Then from the cloned folder use npm to install the required packages for the project:
+Then from the project folder use npm to install the required packages for the project:
 
 ```npm install```
 
